@@ -8,14 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p></p>
-  <head>
-    <style>
-      img {
-        width: 50%;
-          }
-    </style>
-</head>
-<img src="https://i.imgur.com/PHDQaWL.jpeg">
 `;
 
 /*   STEP 3   */
