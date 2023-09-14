@@ -8,6 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p></p>
+  <img src="src/Images/photo_2022-12-28_14-13-36.jpg">
 `;
 
 /*   STEP 3   */
